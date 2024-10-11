@@ -1,4 +1,4 @@
-Current directory structure at D:\:
+Current directory structure at D:\OSs:
 
-Folders: ['$AV_AVG', '$RECYCLE.BIN', '1212', '7ussein', 'AVG sandbox', 'chatgpt', 'course', 'Courses', 'cybersecurity', 'Desktop', 'DOCs', 'drivegoogle', 'fileserver', 'flash black', 'Haseb', 'iVMS-4200alarmPicture', 'Kept', 'kolya', 'kolya flasha sooda', 'MovieCache', 'mtc challenge', 'New folder', 'OSs', 'packet data', 'paint', 'powerpoint gena7 7aseb', 'powerpoints', 'Program Files', 'Programs', 'Projects', 'Quran', 'System Volume Information', 'talaba', 'Temp', 'vpn', 'work', 'البرامج علي اجهزة الحاسب الالي', 'الجناح', 'بحث', 'تقرير']
-Files: ['bootTel.dat', 'DOCs.rar', 'FIBER OPTICAL COMMUNICATIONS.docx', '~$ول المحاضرات.docx', 'جدول المحاضرات.docx', 'حصر اجهزة المشتريات الجرد الكامل.xlsx', 'مذكرة عرض العميد خالد.docx']
+Folders: []
+Files: ['kali-linux-2024.1-installer-amd64.iso', 'rufus-4.2.exe', 'ubuntu-20.04.6-desktop-amd64.iso', 'Win10_21H2_English_x64.iso', 'Win11_23H2_English_x64v2.iso']
