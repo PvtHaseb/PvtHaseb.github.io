@@ -1,0 +1,4 @@
+Current directory structure at D:\Kept\FLASH 2\Pycharm:
+
+Folders: ['Data_v2', 'GiliSoft USB Lock v10.3', 'Gilisoft USB Lock v5.1.0', 'Matlab2014b', 'Programs', 'Pycharm', 'tia-portal', 'دفتر استخدام الإنترنت', 'قرآن كريم']
+Files: ['-Getintopc.com-GiliSoft_USB_Lock_10.3.rar', 'Data.rar', 'GNS3-2.2.44.1-all-in-one-regular.rar', 'python-3.11.4-amd64.exe', 'SuperCopier_4.0.19_full_version.rar', 'Win11_23H2_English_x64v2.iso', 'winrar-x64-624.exe']
