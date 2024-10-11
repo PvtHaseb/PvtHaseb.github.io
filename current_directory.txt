@@ -1,4 +1,4 @@
-Current directory structure at D:\:
+Current directory structure at D:\7ussein:
 
 Folders:
-['[0] $AV_AVG', '[1] $RECYCLE.BIN', '[2] 1212', '[3] 7ussein', '[4] AVG sandbox', '[5] chatgpt', '[6] course', '[7] Courses', '[8] cybersecurity', '[9] Desktop', '[10] DOCs', '[11] drivegoogle', '[12] fileserver', '[13] flash black', '[14] Haseb', '[15] iVMS-4200alarmPicture', '[16] Kept', '[17] kolya', '[18] kolya flasha sooda', '[19] MovieCache', '[20] mtc challenge', '[21] New folder', '[22] OSs', '[23] packet data', '[24] paint', '[25] powerpoint gena7 7aseb', '[26] powerpoints', '[27] Program Files', '[28] Programs', '[29] Projects', '[30] Quran', '[31] System Volume Information', '[32] talaba', '[33] Temp', '[34] vpn', '[35] work', '[36] البرامج علي اجهزة الحاسب الالي', '[37] الجناح', '[38] بحث', '[39] تقرير']
+['[0] 1- Mastring in c#', '[1] 2- SQL', '[2] C#(Fundamentals Level)', '[3] NEW', '[4] New folder', '[5] New folder (2)']
