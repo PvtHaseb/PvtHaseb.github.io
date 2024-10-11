@@ -1,4 +1,4 @@
-Current directory structure at D:\Quran:
+Current directory structure at D:\Temp:
 
 Folders: ['$AV_AVG', '$RECYCLE.BIN', '1212', '7ussein', 'AVG sandbox', 'chatgpt', 'course', 'Courses', 'cybersecurity', 'Desktop', 'DOCs', 'drivegoogle', 'fileserver', 'flash black', 'Haseb', 'iVMS-4200alarmPicture', 'Kept', 'kolya', 'kolya flasha sooda', 'MovieCache', 'mtc challenge', 'New folder', 'OSs', 'packet data', 'paint', 'powerpoint gena7 7aseb', 'powerpoints', 'Program Files', 'Programs', 'Projects', 'Quran', 'System Volume Information', 'talaba', 'Temp', 'vpn', 'work', 'البرامج علي اجهزة الحاسب الالي', 'الجناح', 'بحث', 'تقرير']
 Files: ['bootTel.dat', 'DOCs.rar', 'FIBER OPTICAL COMMUNICATIONS.docx', '~$ول المحاضرات.docx', 'جدول المحاضرات.docx', 'حصر اجهزة المشتريات الجرد الكامل.xlsx', 'مذكرة عرض العميد خالد.docx']
