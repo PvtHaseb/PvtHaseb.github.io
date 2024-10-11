@@ -1,4 +1,4 @@
-Current directory structure at D:\7ussein:
+Current directory structure at D:\:
 
-Folders: ['1- Mastring in c#', '2- SQL', 'C#(Fundamentals Level)', 'NEW', 'New folder', 'New folder (2)']
-Files: ['C# import Excel to Database.mp4', 'C# Tutorial - Import data from Excel to SQL Server _ FoxLearn.mp4', 'C# Tutorial - Open and Read Excel Files (_.xls-_.xlsx) _ FoxLearn.mp4', 'C# Tutorial import data from Excel to SQL server.mp4', 'How to EASILY Import data from EXCEL to SQL Server Tables [2024].mp4', 'Import Excel to SQL Server Managementادخال ملفات أكسيل لسكول سيرفير.mp4', 'MS SQL Server - Management Studio - Import excel sheets as tables into database.mp4', 'SOC.txt']
+Folders: ['$AV_AVG', '$RECYCLE.BIN', '1212', '7ussein', 'AVG sandbox', 'chatgpt', 'course', 'Courses', 'cybersecurity', 'Desktop', 'DOCs', 'drivegoogle', 'fileserver', 'flash black', 'Haseb', 'iVMS-4200alarmPicture', 'Kept', 'kolya', 'kolya flasha sooda', 'MovieCache', 'mtc challenge', 'New folder', 'OSs', 'packet data', 'paint', 'powerpoint gena7 7aseb', 'powerpoints', 'Program Files', 'Programs', 'Projects', 'Quran', 'System Volume Information', 'talaba', 'Temp', 'vpn', 'work', 'البرامج علي اجهزة الحاسب الالي', 'الجناح', 'بحث', 'تقرير']
+Files: ['bootTel.dat', 'DOCs.rar', 'FIBER OPTICAL COMMUNICATIONS.docx', '~$ول المحاضرات.docx', 'جدول المحاضرات.docx', 'حصر اجهزة المشتريات الجرد الكامل.xlsx', 'مذكرة عرض العميد خالد.docx']
