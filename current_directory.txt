@@ -1,4 +1,0 @@
-Current directory structure at D:\OSs:
-
-Folders: []
-Files: ['kali-linux-2024.1-installer-amd64.iso', 'rufus-4.2.exe', 'ubuntu-20.04.6-desktop-amd64.iso', 'Win10_21H2_English_x64.iso', 'Win11_23H2_English_x64v2.iso']
