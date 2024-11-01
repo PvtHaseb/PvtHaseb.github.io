@@ -14,4 +14,3 @@ if not exist "C:\Program Files (x86)\Temp" (
 %download% "%url%" "%download_path%"
 
 echo Download complete: %download_path%
-pause
